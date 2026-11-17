@@ -1,0 +1,24 @@
+# Log Data & Output (Do not commit raw data and output files)
+Data/
+output/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# PyInstaller Build
+build/
+dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / Editor
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
